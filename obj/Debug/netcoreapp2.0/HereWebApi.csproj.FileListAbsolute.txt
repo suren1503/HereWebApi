@@ -1,0 +1,11 @@
+C:\Projects\HereWebApi\HereWebApi\bin\Debug\netcoreapp2.0\HereWebApi.deps.json
+C:\Projects\HereWebApi\HereWebApi\bin\Debug\netcoreapp2.0\HereWebApi.runtimeconfig.json
+C:\Projects\HereWebApi\HereWebApi\bin\Debug\netcoreapp2.0\HereWebApi.runtimeconfig.dev.json
+C:\Projects\HereWebApi\HereWebApi\bin\Debug\netcoreapp2.0\HereWebApi.dll
+C:\Projects\HereWebApi\HereWebApi\obj\Debug\netcoreapp2.0\HereWebApi.csprojAssemblyReference.cache
+C:\Projects\HereWebApi\HereWebApi\obj\Debug\netcoreapp2.0\HereWebApi.csproj.CoreCompileInputs.cache
+C:\Projects\HereWebApi\HereWebApi\obj\Debug\netcoreapp2.0\HereWebApi.AssemblyInfoInputs.cache
+C:\Projects\HereWebApi\HereWebApi\obj\Debug\netcoreapp2.0\HereWebApi.AssemblyInfo.cs
+C:\Projects\HereWebApi\HereWebApi\bin\Debug\netcoreapp2.0\HereWebApi.pdb
+C:\Projects\HereWebApi\HereWebApi\obj\Debug\netcoreapp2.0\HereWebApi.dll
+C:\Projects\HereWebApi\HereWebApi\obj\Debug\netcoreapp2.0\HereWebApi.pdb
